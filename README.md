@@ -1,5 +1,5 @@
 ### Hi 👋, nice to see you here
-#### I am GitHub Readme Generator's creator
+#### I am Jakub Cabała
 ![I am GitHub Readme Generator's creator](https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png)
 
 My name is Jakub from Poland, and I do web development. Currently, I focus on frontend development with React. Apart from web development, I am interested in competitive programming and mathematics.
